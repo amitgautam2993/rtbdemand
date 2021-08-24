@@ -11,13 +11,6 @@ document.getElementById('closeButton').addEventListener('click', function(e) {
     this.parentNode.style.display = 'none';
 }, false);
 
-
-
-
-
- 
-
-
   var owl = $('.owl-carousel');
   owl.owlCarousel({
       singleItem:true,

@@ -9,7 +9,7 @@ p{
   margin-top: auto;
 }
 body {
-    background-color: powderblue;
+  background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
   }
   h1 {
     color: blue;
@@ -29,6 +29,15 @@ body {
   }
 
   .owl-carousel{
-    margin-left: 10px;
+    align-content: center;
+    position: fixed;
+    bottom: -1%;
+    left: 5vw; 
+    transform: translate(-50%,-50%);
     width: 100px;
+    height: 100px;
+    background-color:;
+    opacity: 90%;
+    z-index: 1;
+    cursor: pointer;
   }
