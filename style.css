@@ -1,0 +1,34 @@
+.header{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+p{
+  font-size: larger;
+  margin-top: auto;
+}
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+  .btn-close{
+    background-color:white;
+    border: none;
+
+  }
+  span{
+    margin:5% ;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .owl-carousel{
+    margin-left: 10px;
+    width: 100px;
+  }
